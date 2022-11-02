@@ -1,0 +1,22 @@
+{
+  "name": "playerapi",
+  "version": "1.0.0",
+  "description": "MCMagic Player API designed for ease of access on the web.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCMagicParks/PlayerAPI.git"
+  },
+  "author": "MCMagic Development Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCMagicParks/PlayerAPI/issues"
+  },
+  "homepage": "https://github.com/MCMagicParks/PlayerAPI#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
